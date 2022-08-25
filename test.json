@@ -1,0 +1,45 @@
+{
+    "Group": {
+      "GroupName": "root",
+      "Member": [
+        {
+          "Group": {
+            "GroupName": "jinji",
+            "Member": [
+              {"UserName": "user4"}
+            ]
+          }
+        },
+        {
+          "Group": {
+            "GroupName": "jyousisu",
+            "Member": [
+              {"UserName": "user5"},
+              {"UserName": "user6"},
+              {"UserName": "user6"}
+            ]
+          }
+        },
+        {
+          "Group": {
+            "GroupName": "csx",
+            "Member": [
+              {"UserName": "user1"},
+              {"UserName": "user2"},
+              {"UserName": "user2"}
+            ]
+          }
+        },
+        {
+          "Group": {
+            "GroupName": "csx",
+            "Member": [
+              {"UserName": "user1"},
+              {"UserName": "user2"},
+              {"UserName": "user2"}
+            ]
+          }
+        }
+      ]
+    }
+}
